@@ -3,6 +3,8 @@ node_modules
 dist
 .vscode
 .env
+docker-compose.yml
+Dockerfile
 }
 
 
